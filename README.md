@@ -15,10 +15,9 @@ These are typically saturated, infrastructure-constrained, or already-peaked pre
 | **Shivajinagar / Frazer Town (core)** | Already premium, dense, no land supply, heritage zoning restricts redevelopment. |
 | **Ulsoor (interior)** | Old housing stock, narrow roads, parking issues, encroachment disputes. |
 | **Chickpet / KR Market** | Commercial-heavy, residential demand low, congestion, pollution. |
-| **Old Madras Road (inner stretch)** | Severe traffic, drainage problems, aging infrastructure. |
-| **Parts of Jayanagar / Basavanagudi (4th/5th block core)** | Already at premium ceiling (₹15k–22k/sqft); buyers price-fatigued. |
-| **Yeshwanthpur (industrial pockets)** | Industrial overhang, mixed land use depresses residential premium. |
-| **Magadi Road (inner)** | Poor civic infrastructure, slow metro impact, low buyer interest. |
+| **Old Madras Road (inner stretch)** | Commercial overhang, severe traffic, aging infrastructure, no fresh residential supply. |
+| **Yeshwanthpur (industrial pockets)** | Industrial overhang and mixed land use cap residential premium in the inner pockets, despite Green Line interchange uplift in adjacent zones. |
+| **Magadi Road (inner)** | Poor civic infrastructure, weak metro reach, low buyer interest. |
 
 **Common drivers of stagnation:**
 - Saturation: no fresh land or project supply
@@ -39,10 +38,11 @@ Established residential neighborhoods with steady demand but no breakout catalys
 | **BTM Layout** | Tech-employee demand keeps it stable; congestion caps upside. |
 | **Banashankari (1st–3rd stage)** | Established, good schools, but constrained by old layout. |
 | **Rajajinagar / Malleshwaram** | Premium legacy areas; growth tracks inflation, not catalysts. |
-| **Bannerghatta Road (inner)** | Steady IT demand; traffic & metro delays cap appreciation. |
+| **Bannerghatta Road (inner)** | Steady IT demand, but persistent traffic and limited new apartment supply cap appreciation; metro Pink Line still under construction. |
 | **Koramangala (1st–8th block)** | Already mature premium; ~5–7%/yr stable. |
-| **Indiranagar (100ft Road core)** | Saturated, commercial conversion, ceiling reached. |
-| **HSR Layout (Sectors 1–3)** | Established tech-employee area; ~8–10%/yr. |
+| **Indiranagar (100ft Road core)** | Apartment resale saturated; growth has shifted to land/independent-house and commercial conversion, so apartment-buyer returns are flat even as the locality re-rates. |
+| **HSR Layout (Sectors 1–3)** | Established tech-employee area; ~8–10%/yr (top of this band). |
+| **Parts of Jayanagar / Basavanagudi (4th/5th block core)** | Mature legacy areas at a premium ceiling (₹15k–22k/sqft); growth tracks inflation rather than catalysts. |
 
 **Common drivers:**
 - Established schools, hospitals, social infra
@@ -83,14 +83,14 @@ Areas where a major infrastructure event (metro, expressway, tech park launch) m
 
 | Area | Why high growth |
 |---|---|
-| **Sarjapur Road (Wipro–Dommasandra)** | New tech parks (RGA, Embassy), upcoming Blue Line metro, Wipro/Infosys campuses, peripheral ring road. |
-| **Hebbal / Thanisandra** | Manyata expansion, airport corridor, Hebbal flyover, new metro Phase 2B. |
+| **Sarjapur Road (Wipro–Dommasandra)** | New tech parks (RGA, Embassy), Wipro/Infosys campuses, peripheral ring road alignment, and proposed Phase 3 Sarjapur–Hebbal metro line. |
+| **Hebbal / Thanisandra** | Manyata expansion, airport corridor, Hebbal flyover; under-construction Phase 2B (Kasturinagar–KIA) priced in. |
 | **Devanahalli (close to airport)** | Airport City, KIADB IT zone, Aerospace SEZ, STRR. |
-| **Whitefield extension (Hoskote side)** | Metro Phase 2 Purple Line + cheaper entry vs core Whitefield. |
+| **Whitefield extension (Hoskote side)** | Cheaper entry vs core Whitefield, NH-75 widening, STRR alignment, and spillover from operational Purple Line at Kadugodi. |
 | **KR Puram – Hoodi** | Metro Purple Line operational, ORR job hub spillover. |
 | **Varthur / Gunjur** | Sarjapur–Whitefield connector, IT employee migration. |
 | **Bagalur / Jakkur extension** | Airport corridor + IT SEZ, large land parcels still available. |
-| **Chandapura / Anekal** | E-City Phase 3 expansion, Yellow Line metro extension. |
+| **Chandapura / Anekal** | E-City Phase 3 expansion, NH-44 widening, and proposed Yellow Line extension beyond Bommasandra. |
 
 **Common drivers:**
 - A **single transformational catalyst** (metro opening, expressway, new tech park anchor)
@@ -109,10 +109,10 @@ Speculative-edge pockets that went from agricultural / outer to mainstream withi
 |---|---|
 | **Devanahalli (outer plots, BIAL area)** | Airport City SEZ, Aerospace Park, Boeing/Airbus MRO, ITIR, plot prices ₹1,500 → ₹6,000+/sqft. |
 | **North Bangalore (Bagalur, Chikkajala, Sadahalli)** | Airport ecosystem, KIADB acquisitions, IT investment region. |
-| **Sarjapur outer (Chikkanagamangala, Sompura)** | Google campus rumour, peripheral ring road, Sarjapur–Hosur SEZ. |
+| **Sarjapur outer (Chikkanagamangala, Sompura)** | Peripheral ring road alignment, proposed Sarjapur–Hosur SEZ, plot-developer activity, and IT-employee migration from core Sarjapur. |
 | **Doddaballapur Road (Rajanukunte, beyond)** | Aerospace SEZ + STRR + cheap base prices. |
 | **KR Puram–Whitefield metro corridor (specific stations)** | Metro Phase 2 directly opened up land values. |
-| **Hosur Road (Attibele beyond E-City)** | Tamil Nadu border, industrial corridor, Hosur airport plan. |
+| **Hosur Road (Attibele beyond E-City)** | Hosur industrial cluster (Ola, Ather, TVS), NH-44 corridor, very low base prices, E-City Phase 3 spillover. |
 | **Kanakapura outer (Harohalli)** | NICE Rd, KIADB industrial area, plot speculation. |
 
 **Common drivers:**
